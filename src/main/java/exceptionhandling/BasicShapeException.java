@@ -1,4 +1,4 @@
-package org.example;
+package exceptionhandling;
 
 import java.util.Scanner;
 import java.util.logging.Level;

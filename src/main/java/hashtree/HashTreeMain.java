@@ -1,9 +1,9 @@
-package org.example;
+package hashtree;
 
 import java.util.Scanner;
 import java.util.logging.Logger;
 
-class HashTreeMain {
+public class HashTreeMain {
     public static void hashtree() {
         Scanner sc=new Scanner(System.in);
         Logger l=Logger.getLogger(HashTreeMain.class.getName());

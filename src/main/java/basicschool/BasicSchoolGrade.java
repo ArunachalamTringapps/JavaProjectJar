@@ -1,11 +1,11 @@
-package org.example;
+package basicschool;
 
 
-import basicschool.BasicSchool;import java.util.logging.Logger;
+import java.util.logging.Logger;
 
 class BasicSchoolGrade {
     private final String temp;
-    Logger l=Logger.getLogger(BasicSchool.BasicSchoolGrade.class.getName());
+    Logger l=Logger.getLogger(BasicSchoolGrade.class.getName());
 
     BasicSchoolGrade(String temp) {
         this.temp = temp;

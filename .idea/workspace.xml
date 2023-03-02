@@ -1,17 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="JavaProject:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0a3c0b6-af8d-4d14-9d53-22f2dbb8e4a2" name="Changes" comment="" />
+    <list default="true" id="c0a3c0b6-af8d-4d14-9d53-22f2dbb8e4a2" name="Changes" comment="Updated">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Frequency/Frequency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Frequency/Frequency.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TicTacToe/HumanPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TicTacToe/HumanPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TicTacToe/TicTacToe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TicTacToe/TicTacToe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TicTacToe/TictactaeBoard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TicTacToe/TictactaeBoard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/basicschool/BasicSchool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basicschool/BasicSchool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/basicschool/BasicSchoolGrade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basicschool/BasicSchoolGrade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/basicshape/BasicShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basicshape/BasicShape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/calculation/Calculation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/calculation/Calculation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/calculation/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/calculation/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/calculation/Inputs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/calculation/Inputs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/creditcard/Credit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/creditcard/Credit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/creditcard/CreditCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/creditcard/CreditCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/database/DataBaseConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/database/DataBaseConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/database/JDBCPoll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/database/JDBCPoll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exceptionhandling/BasicSchoolException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exceptionhandling/BasicSchoolException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exceptionhandling/BasicShapeException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exceptionhandling/BasicShapeException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exceptionhandling/CardException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exceptionhandling/CardException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exceptionhandling/CoordiException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exceptionhandling/CoordiException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exceptionhandling/CreditException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exceptionhandling/CreditException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exceptionhandling/DataBaseConnectionException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exceptionhandling/DataBaseConnectionException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exceptionhandling/ExceptionMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exceptionhandling/ExceptionMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exceptionhandling/GradeException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exceptionhandling/GradeException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exceptionhandling/JDBCPollException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exceptionhandling/JDBCPollException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exceptionhandling/PointsException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exceptionhandling/PointsException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exceptionhandling/SimpleBankException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exceptionhandling/SimpleBankException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hashtree/HashTreeMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hashtree/HashTreeMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hashtree/Hashmap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hashtree/Hashmap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hashtree/Hashset.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hashtree/Hashset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hashtree/TreeSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hashtree/TreeSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/linkedqueuestack/LinkedListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/linkedqueuestack/LinkedListDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/linkedqueuestack/LinkedQueueStackMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/linkedqueuestack/LinkedQueueStackMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/linkedqueuestack/QueueDemoLL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/linkedqueuestack/QueueDemoLL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/linkedqueuestack/StackMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/linkedqueuestack/StackMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/listofcontact/Contact.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/listofcontact/Contact.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/listofcontact/ListContact.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/listofcontact/ListContact.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/listofcontact/MyException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/listofcontact/MyException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/points/Points.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/points/Points.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/points/PointsCoordi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/points/PointsCoordi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/simplebank/SimpleBank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/simplebank/SimpleBank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/studentsGPA/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/studentsGPA/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/studentsGPA/StudentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/studentsGPA/StudentTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="module-info" />
+        <option value="package-info" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -29,9 +90,42 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Tringapps-User19/IdeaProjects/bank",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Tringapps-User19\IdeaProjects\JavaProject\src\main\java\org\example" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+      <module name="JavaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="simplebank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -42,5 +136,9 @@
       <updated>1677652079186</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated" />
   </component>
 </project>

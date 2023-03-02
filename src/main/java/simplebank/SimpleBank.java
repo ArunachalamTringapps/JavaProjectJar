@@ -1,10 +1,10 @@
-package org.example;
+package simplebank;
 
 import java.util.Scanner;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-class SimpleBank {
+public class SimpleBank {
 
     private final String name;
     private final int accno;

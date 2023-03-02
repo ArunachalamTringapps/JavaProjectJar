@@ -1,6 +1,6 @@
-package org.example;
+package points;
 
-import java.awt.*;
+
 import java.util.Scanner;
 import java.util.logging.Level;
 import java.util.logging.Logger;

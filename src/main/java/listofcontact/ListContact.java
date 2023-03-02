@@ -1,4 +1,5 @@
-package org.example;
+package listofcontact;
+
 
 import java.util.*;
 import java.util.logging.Level;

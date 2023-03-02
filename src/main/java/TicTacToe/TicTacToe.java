@@ -1,4 +1,5 @@
-package org.example;
+package TicTacToe;
+
 
 import java.util.Scanner;
 

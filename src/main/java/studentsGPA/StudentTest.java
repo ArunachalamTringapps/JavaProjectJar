@@ -1,4 +1,4 @@
-package org.example;
+package studentsGPA;
 
 class StudentTest {
     private final String name;

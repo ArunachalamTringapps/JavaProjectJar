@@ -1,4 +1,4 @@
-package org.example;
+package creditcard;
 
 class CreditCard {
     String name;

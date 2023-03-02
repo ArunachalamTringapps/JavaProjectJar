@@ -1,6 +1,8 @@
-package org.example;
+package calculation;
 
-class Calculation extends Inputs{
+
+
+class Calculation extends Inputs {
     protected double add(){
         return a+b;
     }

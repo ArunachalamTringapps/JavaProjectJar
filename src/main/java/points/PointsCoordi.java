@@ -1,4 +1,4 @@
-package org.example;
+package points;
 
 class PointsCoordi {
     int x1;

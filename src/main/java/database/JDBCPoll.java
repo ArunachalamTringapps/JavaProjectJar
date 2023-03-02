@@ -1,4 +1,6 @@
-package org.example;
+package database;
+
+
 import java.sql.SQLException;
 import java.util.Scanner;
 import java.util.logging.Logger;

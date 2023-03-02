@@ -1,10 +1,10 @@
-package org.example;
+package basicshape;
 
 import java.util.Scanner;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-class BasicShape {
+public class BasicShape {
     static Logger l = Logger.getLogger(BasicShape.class.getName());
     static Scanner sc = new Scanner(System.in);
     int type;

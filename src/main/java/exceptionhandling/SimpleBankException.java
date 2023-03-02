@@ -1,4 +1,4 @@
-package org.example;
+package exceptionhandling;
 
 import java.util.Scanner;
 import java.util.logging.Level;
@@ -76,8 +76,6 @@ class SimpleBankException {
             } while (n > 4);
         }catch (Exception ex){
             l.log(Level.INFO,()->"Error Occur:"+ex);
-        }finally {
-            sc.close();
         }
     }
 }

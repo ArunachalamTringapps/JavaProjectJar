@@ -1,8 +1,9 @@
-package org.example;
+package listofcontact;
+
 
 import java.util.logging.Level;
 
-class Contact extends ListContact {
+public class Contact extends ListContact {
     public static void contactmain() {
         try {
 
@@ -11,7 +12,7 @@ class Contact extends ListContact {
             int ch;
             do {
                 l.info("Enter your choice: ");
-                l.info("\n1.Adding\n2.Delete\n3.display\n4.Search\nExit-0");
+                l.info("\n1.Adding\n2.Delete\n3.display\n4.Search");
                 ch = sc.nextInt();
                 sc.nextLine();
                 switch (ch) {
@@ -19,10 +20,9 @@ class Contact extends ListContact {
                     case 2 -> li.delete();
                     case 3 -> li.display();
                     case 4 -> li.search();
-                    case 0 -> System.exit(0);
                     default -> l.warning("Wrong inputs !");
                 }
-            } while (true);
+            } while (ch<5);
 
         }catch (MyException ex){
             l.log(Level.WARNING,()->"Error: "+ex);

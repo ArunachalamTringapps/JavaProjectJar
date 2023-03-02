@@ -1,6 +1,4 @@
-package org.example;
-
-import calculation.Calculation;
+package calculation;
 
 import java.util.Scanner;
 import java.util.logging.Level;

@@ -1,4 +1,4 @@
-package org.example;
+package linkedqueuestack;
 
 import java.util.logging.Level;
 import java.util.logging.Logger;

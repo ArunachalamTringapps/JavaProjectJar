@@ -1,4 +1,4 @@
-package org.example;
+package hashtree;
 
 import java.util.Iterator;
 import java.util.logging.Level;

@@ -1,4 +1,4 @@
-package org.example;
+package hashtree;
 
 import java.util.HashSet;
 import java.util.Iterator;

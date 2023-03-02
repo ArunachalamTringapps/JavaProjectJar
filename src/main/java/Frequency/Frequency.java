@@ -1,11 +1,11 @@
-package org.example;
+package Frequency;
 
 import java.util.Queue;
 import java.util.*;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-class Frequency {
+public class Frequency {
     private static void count(String word){
         Logger l=Logger.getLogger(Frequency.class.getName());
         Map<String,Integer>hm=new HashMap<>();
