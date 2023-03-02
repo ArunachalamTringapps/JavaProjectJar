@@ -1,4 +1,5 @@
-package exceptionhandling;
+package database;
+
 
 
 import java.util.Scanner;
@@ -6,7 +7,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 public class JDBCPollException {
-    public void firstname() {
+    public void database() {
         Logger l=Logger.getLogger(JDBCPollException.class.getName());
         Scanner sc=new Scanner(System.in);
         try {

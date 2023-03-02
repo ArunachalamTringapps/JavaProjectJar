@@ -1,10 +1,10 @@
 package creditcard;
 
-class CreditCard {
+class CardException {
     String name;
     int  no1;
     String date;
-    CreditCard(String name, int no1, String date){
+    CardException(String name, int no1, String date){
         this.name=name;
         this.date=date;
         this.no1=no1;
@@ -14,9 +14,9 @@ class CreditCard {
         String no3=String.valueOf(no1);
         return no3.equals(no4);
     }
-    public CreditCard cloneexample()  {
+    public CardException cloneexample()  {
         try {
-            return (CreditCard)  super.clone();
+            return (CardException) super.clone();
         }catch (Exception ex){
             return this;
         }

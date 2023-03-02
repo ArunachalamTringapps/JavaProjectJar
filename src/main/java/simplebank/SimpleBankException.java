@@ -4,15 +4,15 @@ import java.util.Scanner;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-public class SimpleBank {
+public class SimpleBankException {
 
     private final String name;
     private final int accno;
     private double bal;
     static Scanner sc = new Scanner(System.in);
-    static Logger l=Logger.getLogger(SimpleBank.class.getName());
+    static Logger l=Logger.getLogger(SimpleBankException.class.getName());
 
-    public SimpleBank() {
+    SimpleBankException() {
         l.info("Enter the customer name:");
 
         this.name = sc.nextLine();
@@ -51,11 +51,11 @@ public class SimpleBank {
 
     }
 
-    public void bank() {
-
+    public static void bank(){
+        try {
             l.info("Welcome to TMB bank");
             l.info("What we want to do");
-            SimpleBank s = new SimpleBank();
+            SimpleBankException s = new SimpleBankException();
 
             int n;
             do {
@@ -73,6 +73,9 @@ public class SimpleBank {
 
                 }
 
-            } while (n < 4);
+            } while (n > 4);
+        }catch (Exception ex){
+            l.log(Level.INFO,()->"Error Occur:"+ex);
+        }
     }
 }

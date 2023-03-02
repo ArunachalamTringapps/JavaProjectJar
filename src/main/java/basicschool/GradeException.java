@@ -1,13 +1,12 @@
 package basicschool;
 
-
 import java.util.logging.Logger;
 
-class BasicSchoolGrade {
+public class GradeException {
     private final String temp;
-    Logger l=Logger.getLogger(BasicSchoolGrade.class.getName());
+    Logger l=Logger.getLogger("com.api.jar");
 
-    BasicSchoolGrade(String temp) {
+    GradeException(String temp) {
         this.temp = temp;
     }
 

@@ -1,4 +1,4 @@
-package exceptionhandling;
+package creditcard;
 
 
 
@@ -7,7 +7,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 public class CreditException {
-    public void firstname() {
+    public void card() {
         Scanner sc=new Scanner(System.in);
         Logger l=Logger.getLogger(CreditException.class.getName());
         l.info("welcome guys");

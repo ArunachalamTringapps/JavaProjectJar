@@ -1,4 +1,4 @@
-package exceptionhandling;
+package basicschool;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -6,7 +6,7 @@ import java.util.Scanner;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-class BasicSchoolException {
+public class BasicSchoolException {
     private final String name;
     private double credittot;
     private String[] gra;
@@ -43,7 +43,7 @@ class BasicSchoolException {
         return "Student Name " + this.name + " has a " + gpa + " GPA";
     }
 
-    public static void firstname() {
+    public static void schoolgrade() {
         try {
 
             String temp;

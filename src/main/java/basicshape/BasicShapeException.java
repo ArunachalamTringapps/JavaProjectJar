@@ -1,10 +1,10 @@
-package exceptionhandling;
+package basicshape;
 
 import java.util.Scanner;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-class BasicShapeException {
+public class BasicShapeException {
     static Logger l = Logger.getLogger(BasicShapeException.class.getName());
     static Scanner sc = new Scanner(System.in);
     int type;
@@ -15,7 +15,7 @@ class BasicShapeException {
     private final double s1;
     private final double s2;
     private final double radius;
-    protected double pi = 3.14;
+    private static final double P = 3.14;
 
     public BasicShapeException(int type, double length, double breadth, double side1, double side2, double radius) {
         this.type=type;
@@ -34,7 +34,7 @@ class BasicShapeException {
             per = breadth + s1 + s2;
         }
         if (type == 3) {
-            per = 2 * pi * radius;
+            per = 2 * P * radius;
         }
         return per;
     }
@@ -47,12 +47,12 @@ class BasicShapeException {
             ar = (breadth * length) / 2;
         }
         if (type == 3) {
-            ar = pi * radius * radius;
+            ar = P * radius * radius;
         }
         return ar;
     }
 
-    public static void firstname() {
+    public static void shape() {
         try {
 
             l.info("Welcome guys");

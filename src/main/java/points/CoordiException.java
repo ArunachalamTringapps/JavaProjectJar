@@ -1,4 +1,4 @@
-package exceptionhandling;
+package points;
 
 
 class CoordiException {
