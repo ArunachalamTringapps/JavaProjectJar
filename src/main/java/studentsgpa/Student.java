@@ -12,7 +12,7 @@ public class Student implements Comparator<StudentTest>{
     public int compare(StudentTest a,StudentTest b){
         return b.getgpa().compareTo(a.getgpa());
     }
-    public static void studentgpa(){
+    public void studentgpa(){
         Logger l= Logger.getLogger(Student.class.getName());
         StudentTest s1 = new StudentTest("arun", 20, 4.0);
         StudentTest s2 = new StudentTest("vino", 20, 3.5);

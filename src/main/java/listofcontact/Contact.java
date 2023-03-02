@@ -4,7 +4,7 @@ package listofcontact;
 import java.util.logging.Level;
 
 public class Contact extends ListContact {
-    public static void contactmain() {
+    public void contactmain() {
         try {
 
 

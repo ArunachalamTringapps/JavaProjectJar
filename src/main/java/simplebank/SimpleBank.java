@@ -12,7 +12,7 @@ public class SimpleBank {
     static Scanner sc = new Scanner(System.in);
     static Logger l=Logger.getLogger(SimpleBank.class.getName());
 
-    SimpleBank() {
+    public SimpleBank() {
         l.info("Enter the customer name:");
 
         this.name = sc.nextLine();
@@ -51,7 +51,7 @@ public class SimpleBank {
 
     }
 
-    public static void bank() {
+    public void bank() {
 
             l.info("Welcome to TMB bank");
             l.info("What we want to do");

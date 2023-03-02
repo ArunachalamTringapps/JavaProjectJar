@@ -26,7 +26,7 @@ public class Frequency {
         }
 
 }
-    public static void frequencymain() {
+    public void frequencymain() {
         Scanner sc=new Scanner(System.in);
         Logger l= Logger.getLogger(Frequency.class.getName());
         l.info("Enter the String");

@@ -11,27 +11,13 @@
   <component name="ChangeListManager">
     <list default="true" id="c0a3c0b6-af8d-4d14-9d53-22f2dbb8e4a2" name="Changes" comment="Updated">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Frequency/Frequency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/frequency/Frequency.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TicTacToe/HumanPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tictactoe/HumanPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TicTacToe/TicTacToe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tictactoe/TicTacToe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TicTacToe/TictactaeBoard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tictactoe/TictactaeBoard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JavaProject_jar/JavaProject.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/basicshape/BasicShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basicshape/BasicShape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/calculation/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/calculation/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/creditcard/Credit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/creditcard/Credit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/database/JDBCPoll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/database/JDBCPoll.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exceptionhandling/CreditException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exceptionhandling/CreditException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exceptionhandling/ExceptionMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exceptionhandling/ExceptionMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exceptionhandling/JDBCPollException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exceptionhandling/JDBCPollException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exceptionhandling/PointsException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exceptionhandling/PointsException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hashtree/HashTreeMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hashtree/HashTreeMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hashtree/Hashmap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hashtree/Hashmap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hashtree/Hashset.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hashtree/Hashset.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hashtree/TreeSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hashtree/TreeSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/linkedqueuestack/LinkedQueueStackMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/linkedqueuestack/LinkedQueueStackMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/frequency/Frequency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/frequency/Frequency.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/listofcontact/Contact.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/listofcontact/Contact.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/points/Points.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/points/Points.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/studentsGPA/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/studentsgpa/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/studentsGPA/StudentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/studentsgpa/StudentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/simplebank/SimpleBank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/simplebank/SimpleBank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/studentsgpa/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/studentsgpa/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,17 +51,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Tringapps-User19/IdeaProjects/bank",
-    "project.structure.last.edited": "Artifacts",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Tringapps-User19/IdeaProjects/bank&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Tringapps-User19\IdeaProjects\JavaProject\src\main\java\org\example" />
@@ -120,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677751388615</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Updated">
+      <created>1677755437065</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677755437065</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
