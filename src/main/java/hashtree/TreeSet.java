@@ -6,7 +6,7 @@ import java.util.logging.Logger;
 
 public class TreeSet {
 
-    public static void firstname() {
+    public void firstname() {
         Logger l =  Logger.getLogger(TreeSet.class.getName());
         java.util.TreeSet<String> ts1 = new java.util.TreeSet<>();//->Elements are added using add() method
         ts1.add("arun");

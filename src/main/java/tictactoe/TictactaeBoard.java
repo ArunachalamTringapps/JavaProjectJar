@@ -1,4 +1,4 @@
-package TicTacToe;
+package tictactoe;
 
 import java.io.FileDescriptor;
 import java.io.FileOutputStream;

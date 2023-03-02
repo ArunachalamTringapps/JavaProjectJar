@@ -7,7 +7,7 @@ import java.util.logging.Logger;
 
 public class Hashset {
 
-    public static void firstname() {
+    public void firstname() {
         Logger l =  Logger.getLogger(Hashset.class.getName());
         HashSet<String> set= new HashSet<>();
         set.add("Hh");

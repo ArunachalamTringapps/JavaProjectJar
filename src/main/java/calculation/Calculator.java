@@ -6,7 +6,7 @@ import java.util.logging.Logger;
 
 
 public class Calculator {
-    public static void calculator() {
+    public void calculator() {
         String word="Result: ";
         Logger l=Logger.getLogger(Calculator.class.getName());
         Scanner sc=new Scanner(System.in);

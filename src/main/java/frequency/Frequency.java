@@ -1,4 +1,4 @@
-package Frequency;
+package frequency;
 
 import java.util.Queue;
 import java.util.*;
@@ -6,7 +6,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 public class Frequency {
-    private static void count(String word){
+    private  void count(String word){
         Logger l=Logger.getLogger(Frequency.class.getName());
         Map<String,Integer>hm=new HashMap<>();
         String []arr=word.split("[ .,]+");
@@ -31,7 +31,8 @@ public class Frequency {
         Logger l= Logger.getLogger(Frequency.class.getName());
         l.info("Enter the String");
         String word=sc.nextLine();
-        count(word);
+        Frequency fr=new Frequency();
+        fr.count(word);
 
     }
 }

@@ -1,4 +1,4 @@
-package studentsGPA;
+package studentsgpa;
 
 class StudentTest {
     private final String name;

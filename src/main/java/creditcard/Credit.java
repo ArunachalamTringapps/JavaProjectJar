@@ -6,7 +6,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 public class Credit {
-    public static void card() {
+    public void card() {
         Scanner sc=new Scanner(System.in);
         Logger l=Logger.getLogger(Credit.class.getName());
         l.info("welcome guys");

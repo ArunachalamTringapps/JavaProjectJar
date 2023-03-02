@@ -1,11 +1,11 @@
-package TicTacToe;
+package tictactoe;
 
 
 import java.util.Scanner;
 
 public class TicTacToe
 {
-    public static void tictactoemain()
+    public  void tictactoemain()
     {
         TictactaeBoard tic=new TictactaeBoard();
         Scanner scan=new Scanner(System.in);

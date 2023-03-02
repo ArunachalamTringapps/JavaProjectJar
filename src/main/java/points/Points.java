@@ -7,7 +7,7 @@ import java.util.logging.Logger;
 
 
 public class Points {
-    public static void points()  {
+    public void points()  {
         Scanner sc=new Scanner(System.in);
         Logger l = Logger.getLogger(Points.class.getName());
         l.info("Welcome guys");

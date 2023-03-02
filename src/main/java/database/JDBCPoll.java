@@ -6,7 +6,7 @@ import java.util.Scanner;
 import java.util.logging.Logger;
 
 public class JDBCPoll {
-    public static void datebase() throws SQLException {
+    public void database() throws SQLException {
         Logger l=Logger.getLogger(JDBCPoll.class.getName());
         Scanner sc=new Scanner(System.in);
 

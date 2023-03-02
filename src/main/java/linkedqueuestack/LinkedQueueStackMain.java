@@ -5,7 +5,7 @@ import java.util.Scanner;
 import java.util.logging.Logger;
 
 public class LinkedQueueStackMain {
-    public static void list() {
+    public void list() {
         Scanner sc=new Scanner(System.in);
         Logger l=Logger.getLogger(LinkedQueueStackMain.class.getName());
         int ch;

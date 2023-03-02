@@ -6,7 +6,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 public class JDBCPollException {
-    public static void firstname() {
+    public void firstname() {
         Logger l=Logger.getLogger(JDBCPollException.class.getName());
         Scanner sc=new Scanner(System.in);
         try {

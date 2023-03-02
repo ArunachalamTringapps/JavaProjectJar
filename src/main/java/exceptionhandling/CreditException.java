@@ -7,7 +7,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 public class CreditException {
-    public static void firstname() {
+    public void firstname() {
         Scanner sc=new Scanner(System.in);
         Logger l=Logger.getLogger(CreditException.class.getName());
         l.info("welcome guys");

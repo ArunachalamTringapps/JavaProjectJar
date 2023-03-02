@@ -7,7 +7,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 public class PointsException {
-    public static void firstname() {
+    public void firstname() {
         Scanner sc=new Scanner(System.in);
         Logger l = Logger.getLogger(PointsException.class.getName());
         l.info("Welcome guys");

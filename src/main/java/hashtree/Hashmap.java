@@ -7,7 +7,7 @@ import java.util.logging.Logger;
 
 public class Hashmap
 {
-    public static void firstname()
+    public void firstname()
     {
         Logger l =  Logger.getLogger(Hashmap.class.getName());
         HashMap<Integer, String> languages = new HashMap<>();

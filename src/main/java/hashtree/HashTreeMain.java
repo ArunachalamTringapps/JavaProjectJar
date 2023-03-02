@@ -4,7 +4,7 @@ import java.util.Scanner;
 import java.util.logging.Logger;
 
 public class HashTreeMain {
-    public static void hashtree() {
+    public void hashtree() {
         Scanner sc=new Scanner(System.in);
         Logger l=Logger.getLogger(HashTreeMain.class.getName());
         int ch;
@@ -14,9 +14,9 @@ public class HashTreeMain {
             l.info("1.Hashmap\n2.Hashset\n3.TreeSet");
             ch=sc.nextInt();
             switch (ch){
-                case 1-> Hashmap.firstname();
-                case 2-> Hashset.firstname();
-                case 3-> TreeSet.firstname();
+                case 1-> {Hashmap hmap=new Hashmap();hmap.firstname();}
+                case 2-> {Hashset hset=new Hashset();hset.firstname();}
+                case 3-> {TreeSet tset=new TreeSet();tset.firstname();}
                 default -> l.info("Thank You Guys:)");
             }
         }while (ch<4);

@@ -4,7 +4,7 @@ import java.util.Scanner;
 import java.util.logging.Logger;
 
 public class ExceptionMain {
-    public static void exceptionmain() {
+    public void exceptionmain() {
         Scanner sc=new Scanner(System.in);
         Logger l=Logger.getLogger(ExceptionMain.class.getName());
         l.info("Welcome to Exception Handling");
@@ -16,9 +16,9 @@ public class ExceptionMain {
             switch (ch) {
                 case 1 -> BasicSchoolException.firstname();
                 case 2 -> BasicShapeException.firstname();
-                case 3 -> CreditException.firstname();
-                case 4 -> JDBCPollException.firstname();
-                case 5 -> PointsException.firstname();
+                case 3 -> {CreditException cre=new CreditException();cre.firstname();}
+                case 4 -> {JDBCPollException dataexp=new JDBCPollException();dataexp.firstname();}
+                case 5 -> {PointsException pexp=new PointsException();pexp.firstname();}
                 case 6 -> SimpleBankException.firstname();
                 default -> l.info("Thanks You Guys:)");
             }
